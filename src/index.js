@@ -1,6 +1,6 @@
 
 var DefineClass = require('define-class'),
-    PluginAbstract = require('./abstract'),
+    PluginAbstract = require('cb-framework').pluginAbstract,
     CleanerPlugin = DefineClass(PluginAbstract, {
 
         init: function() {

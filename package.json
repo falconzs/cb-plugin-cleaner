@@ -2,7 +2,8 @@
   "name": "cb-plugin-cleaner",
   "version": "1.0.0",
   "dependencies": {
-    "cb-framework": "falconzs/cb-framework"
+    "cb-framework": "falconzs/cb-framework",
+    "define-class": "0.0.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
