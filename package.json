@@ -1,13 +1,24 @@
 {
   "name": "cb-plugin-cleaner",
   "version": "1.0.0",
+  "description": "CB Bot plugin to clean chat.",
+  "homepage": "https://github.com/falconzs/cb-plugin-cleaner/",
+  "bugs": "https://github.com/falconzs/cb-plugin-cleaner/issues",
+  "author": {
+    "name": "falconzs",
+    "url": "https://github.com/falconzs"
+  },
+  "contributors": [],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falconzs/cb-plugin-cleaner.git"
+  },
   "dependencies": {
     "cb-framework": "falconzs/cb-framework",
     "define-class": "0.0.2"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-webpack": "^1.0.11",
     "unit.js": ">=2.0.0"
   }
 }
