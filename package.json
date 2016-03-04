@@ -1,0 +1,12 @@
+{
+  "name": "cb-plugin-cleaner",
+  "version": "1.0.0",
+  "dependencies": {
+    "cb-framework": "falconzs/cb-framework"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webpack": "^1.0.11",
+    "unit.js": ">=2.0.0"
+  }
+}
