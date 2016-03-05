@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/falconzs/cb-plugin-cleaner.git"
   },
-  "dependencies": {
+  "peerDependencies": {
     "cb-framework": "falconzs/cb-framework",
     "define-class": "0.0.2"
   },
